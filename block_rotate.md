@@ -13,6 +13,9 @@ jupyter:
     name: python3
 ---
 
+# Block Rotation Math Problem 
+## Probability of color change post-rotation. 
+
 ```python
 def dectobi(dec_number): 
     bin_array = []
